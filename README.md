@@ -1,0 +1,13 @@
+# sakura_india-user 9 PKQ1.180917.001 V12.0.4.0.PDMMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: sakura_india
+- flavor: sakura_india-user
+- release: 9
+- id: PKQ1.180917.001
+- incremental: V12.0.4.0.PDMMIXM
+- tags: release-keys
+- fingerprint: xiaomi/sakura_india/sakura_india:9/PKQ1.180917.001/V12.0.4.0.PDMMIXM:user/release-keys
+- brand: xiaomi
+- branch: sakura_india-user-9-PKQ1.180917.001-V12.0.4.0.PDMMIXM-release-keys
+- repo: xiaomi_sakura_india_dump
